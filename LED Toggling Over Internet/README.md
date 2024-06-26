@@ -1,8 +1,5 @@
 In July 2024, i am going to start a internship. The company wants me to use ESP32. This is my first attempt before my internship to get familiar with ESP32.
 
-
-In this practice, i entered on signals and signal handlers. I wrote a program to implement alarm with snooze for given time and date using SIGALRM signal.
-
 <ul>
 	<li>Connecting to WIFI.</li>
   <li>Creating TCP Sockets.</li>
