@@ -1,4 +1,4 @@
-In July 2024, i am going to start a internship. The company wants me to use ESP32. This is my first attempt before my internship to get familiar with ESP32.
+This is my first attempt to get familiar with ESP32.
 
 <ul>
 	<li>Connecting to WIFI.</li>
